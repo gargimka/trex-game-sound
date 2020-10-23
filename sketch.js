@@ -79,7 +79,7 @@ function setup() {
 
 function draw() {
   
-  background(255);
+  background(0);
   //displaying score
   textSize(15);
   fill("green")
